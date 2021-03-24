@@ -16,7 +16,7 @@
  This is an [example
  link](https://www.makeuseof.com)
  
- ![AltText](F:\BaiduNetdiskDownload\MobileFile\1592640870123.jpg)
+ ![AltText](https://github.com/satori-koishi-DIO/Test/blob/master/Pic/InkedSTARS_18055_000_LI.jpg)
  \*whajlksjd\*
  `This is Inline code`
  
